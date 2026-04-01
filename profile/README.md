@@ -22,14 +22,14 @@
 
 <!----------------------------------------------------------------------------->
 
-[Handbook]: https://freecad.github.io/DevelopersHandbook
-[Assets]: https://github.com/FreeCAD/Assets
-[FEP]: https://github.com/FreeCAD/FreeCAD-Enhancement-Proposals
-[FPA]: https://github.com/FreeCAD/FPA
+[Handbook]: https://freecad.github.io/DevelopersHandbook 'FreeCAD Developers Handbook'
+[Assets]: https://github.com/FreeCAD/Assets 'Assets used in the FreeCAD project.'
+[FEP]: https://github.com/FreeCAD/FreeCAD-Enhancement-Proposals 'FreeCAD Enhancement Proposals'
+[FPA]: https://github.com/FreeCAD/FPA 'FreeCAD Project Association'
 
-[Academy]: https://freecad.github.io/Addon-Academy
-[Reports]: https://freecad.github.io/Addon-Reports
-[Index]: https://github.com/FreeCAD/Addons
+[Academy]: https://freecad.github.io/Addon-Academy 'Addon development documentation'
+[Reports]: https://freecad.github.io/Addon-Reports 'Report of addon health'
+[Index]: https://github.com/FreeCAD/Addons 'Public index of addons' 
 
 <!----------------------------------------------------------------------------->
 
